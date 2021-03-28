@@ -6,6 +6,7 @@
 -pandas  
 -pymongo  
 -rejson
+-redis
   
 Python comes pre-installed with the newest version(s) of Ubuntu.  
 To install pip, open a terminal and run:  
@@ -19,6 +20,7 @@ Next, run the following commands:
     $pip3 install pandas  
     $pip3 install pymongo  
     $pip3 install rejson
+    $pip3 install redis
   
 ## Now, you should be able to run the scraper  
 

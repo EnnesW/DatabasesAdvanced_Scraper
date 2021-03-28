@@ -1,6 +1,7 @@
 import json
 import pymongo as mongo
 import redis
+import time
 
 #redis push the highest value to mongodb
 def toMongo():

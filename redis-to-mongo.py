@@ -17,5 +17,6 @@ def toMongo():
 
 #Run every minute
 while(True):
+    time.sleep(8)
     toMongo()
-    time.sleep(60)
+    time.sleep(52)
